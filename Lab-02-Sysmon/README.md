@@ -94,6 +94,7 @@ Applications and Services Logs
 ![](images/whoami.png)
 
 (tasklist):
+
 ![](images/tasklist.png)
 
 ### Network Connection (Event ID 3)

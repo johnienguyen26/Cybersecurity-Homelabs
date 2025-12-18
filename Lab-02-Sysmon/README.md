@@ -148,11 +148,40 @@ Documentation:
 
 Documentation:
 
+![](images/image3.png)
 
+- No command-line because Event 3 is a Network Connection
+- No parent-image because Event 3 is a Network Connection
 
+![](images/sysmonuser.png)
 
+![](images/destinationIP3.png)
 
+#### Full Detail Panel for Event 
 
+![](images/event11.png)
 
+Documentation:
 
+![](images/images11.png)
 
+- No command-line because Event 11 is a File Creation
+- No parent-image because Event 11 is a File Creation
+
+![](images/user11.png)
+
+## Enhancement (Optional)
+
+Install Autoruns or Process Explorer (Sysinternals tools) and mention how Sysmon complements them.
+
+Answer: 
+
+## Compare Native Logs vs Sysmon (Critical Thinking)
+
+Answer these in your README:
+
+   - What does Sysmon caputre that Event Viewer does not?
+   - Why is command-line logging important?
+   - How would attackesr abuse PowerShell or cmd?
+
+Note: Strong interview questions.

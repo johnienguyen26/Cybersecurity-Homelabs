@@ -87,6 +87,7 @@ Applications and Services Logs
        -tasklist
 
 (ipconfig /all):
+
 ![](images/ipconfigall.png)
 
 (whoami):

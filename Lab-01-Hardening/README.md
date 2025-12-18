@@ -1,4 +1,4 @@
-# Windows10 Labs
+# Windows 10 Hardening
 
 ## Overview:
 

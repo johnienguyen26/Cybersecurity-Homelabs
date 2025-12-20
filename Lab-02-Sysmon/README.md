@@ -1,8 +1,8 @@
-# Windows 10 Sysmon-Lab
+# Windows 10 Sysmon
 
 ## Objective
 
-The Objective of this lab is to familiarize myself with enhancing endpoint visibility on a Windows 10 system by deploying and configuring system monitoring to capture detailed host-based telemetry.
+The objective of this lab is to familiarize myself with enhancing endpoint visibility on a Windows 10 system by deploying and configuring system monitoring to capture detailed host-based telemetry.
 
    - Process creation
    - Network connections
